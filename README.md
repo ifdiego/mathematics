@@ -1,24 +1,17 @@
 # Mathematics
 
-This repository contains a lot of snippets of code and experiments simulating mathematics and physics formulas.
+This repository contains a lot of snippets of codes and experiments simulating mathematics and physics.
 
-## Why mathematics
-For such a long time I've been a mathematics enthusiast.  
-It was my favorite subject back in school.  
-And I'm still curious about it.  
-In my free time, if possible, I try to study a little bit.
+## Mathematics?
+I'm really interested in mathematics and I've been an enthusiast for such a long time. It was my favourite subject back in school and I'm still cuious about it. Always I found some time I try to read/study something about it.
 
-## Why Lisp?
-Since I'm also curious about programming languages, I decided to implement some mathematics experiments in a language I've never seen before.  
-I got interested in Functional Programming and took the oportunity to use Common Lisp in this project.
+## Lisp?
+I'm also interested in programming languagens and got curious about Functional Programming and Common Lisp, so I took the oportunity to implement these experiments in this language.
 
-## How to run
-To run any example you'll need SBCL installed.
+## Running an example
+First of all you'll need [SBCL](http://www.sbcl.org) or another Common Lisp interpreter.
 
-And then just run:
-
+After installed, you can running it by:
 ```
 sbcl --script example.lisp
 ```
-
-Enjoy.
